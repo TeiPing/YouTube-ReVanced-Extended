@@ -1,6 +1,6 @@
 {
-  "version": "v21.04.223 (patches dev.21.mpp)",
-  "versionCode": 25,
-  "zipUrl": "https://github.com/TeiPing/YouTube-ReVanced-Extended/releases/download/25/youtube-morphe-module-v21.04.223-all.zip",
+  "version": "v21.04.223 (patches 1.40.0.mpp)",
+  "versionCode": 26,
+  "zipUrl": "https://github.com/TeiPing/YouTube-ReVanced-Extended/releases/download/26/youtube-morphe-module-v21.04.223-all.zip",
   "changelog": "https://raw.githubusercontent.com/TeiPing/YouTube-ReVanced-Extended/update/build.md"
 }
