@@ -1,3 +1,8 @@
+## YouTube ReVanced Extended
+* **Version:** v21.07.247 (patches dev.6.mpp)
+* **Release:** [#42](https://github.com/TeiPing/YouTube-ReVanced-Extended/releases/tag/42)
+
+### Release Notes:
 YouTube-Extended: 21.07.247  
 YouTube-Morphe: 21.13.164  
 YouTube-Music-Extended (arm64-v8a): 9.15.51  
