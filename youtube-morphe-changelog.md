@@ -1,6 +1,6 @@
 ## YouTube Morphe
 * **Version:** v21.16.256 (patches dualvot.8.5.3.mpp)
-* **Release:** [#60](https://github.com/TeiPing/YouTube-ReVanced-Extended/releases/tag/60)
+* **Release:** [#61](https://github.com/TeiPing/YouTube-ReVanced-Extended/releases/tag/61)
 
 ### Release Notes:
 YouTube-Morphe: 21.16.256  
@@ -11,8 +11,8 @@ Install instructions: [NonRoot](https://github.com/TeiPing/YouTube-ReVanced-Exte
   
 CLI: MorpheApp/morphe-desktop/morphe-desktop-1.18.0-all.jar  
   
-Patches: sashade8-ship-it/dual-vot-patches/patches-1.45.0-dev.21-dualvot.8.5.3.mpp  
-[Changelog](https://github.com/sashade8-ship-it/dual-vot-patches/releases/tag/v1.45.0-dev.21-dualvot.8.5.3)
+Patches: sashade8-ship-it/dual-vot-patches/patches-1.45.0-dev.23-dualvot.8.5.3.mpp  
+[Changelog](https://github.com/sashade8-ship-it/dual-vot-patches/releases/tag/v1.45.0-dev.23-dualvot.8.5.3)
 
-Patches: MorpheApp/morphe-patches/patches-1.45.0-dev.21.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0-dev.21)  
+Patches: MorpheApp/morphe-patches/patches-1.45.0-dev.23.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.45.0-dev.23)  
